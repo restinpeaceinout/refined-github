@@ -40,7 +40,7 @@
 		"type-fest": "^0.4.1",
 		"webext-domain-permission-toggle": "^0.1.0",
 		"webext-dynamic-content-scripts": "^5.0.2-0",
-		"webext-options-sync": "^0.15.5",
+		"webext-options-sync": "^0.21.2",
 		"webextension-polyfill": "^0.4.0",
 		"zip-text-nodes": "^1.0.0-0"
 	},
